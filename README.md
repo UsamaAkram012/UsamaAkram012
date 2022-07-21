@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **c, c++, python, java html and js**
 
-- 📫 How to reach me **usamaakram.official@gmail.com**
+- 📫 How to reach me **usamaakram.official012@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Fj7t2GnIGL8Qfy7yzRh-JKa5InW1WXKQ/view?usp=sharing](https://drive.google.com/file/d/1Fj7t2GnIGL8Qfy7yzRh-JKa5InW1WXKQ/view?usp=sharing)
 
