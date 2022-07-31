@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **usamaakram.official012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AN0QagNP-vbcyTVqwppyTRnQocI_dut4/view?usp=sharing](https://drive.google.com/file/d/1Fj7t2GnIGL8Qfy7yzRh-JKa5InW1WXKQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AN0QagNP-vbcyTVqwppyTRnQocI_dut4/view?usp=sharing](https://drive.google.com/file/d/1AN0QagNP-vbcyTVqwppyTRnQocI_dut4/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny and bit shy.**
 
