@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React, Bootstrap and ASP.NET**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
 - 📝 I regularly write articles on [coming soon](coming soon)
 
 - 💬 Ask me about **C++, Java, Python, HTML, CSS and JS**
