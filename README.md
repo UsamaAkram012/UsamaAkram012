@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **usamaakram.official012@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/bcDHM](shorturl.at/bcDHM)
+- 📄 Know about my experiences https://drive.google.com/file/d/1AN0QagNP-vbcyTVqwppyTRnQocI_dut4/view?usp=sharing
 
 - ⚡ Fun fact **I think I am funny**
 
