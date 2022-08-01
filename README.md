@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usama Akram</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/usamaakram012/usamaakram012/main/text.gif"
+<img align="center" src="https://raw.githubusercontent.com/usamaakram012/usamaakram012/main/textt.gif"
  width="400" 
  height="20">
 
