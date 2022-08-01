@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Akram</h1>
-<img align= src="https://raw.githubusercontent.com/usamaakram012/usamaakram012/main/text.gif">
+<h1 align="center"><img src="https://raw.githubusercontent.com/usamaakram012/usamaakram012/main/text.gif"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaakram012&label=Profile%20views&color=0e75b6&style=flat" alt="usamaakram012" /> </p>
 
