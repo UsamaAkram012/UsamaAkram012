@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **usamaakram.official012@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1AN0QagNP-vbcyTVqwppyTRnQocI_dut4/view?usp=sharing
+- 📄 Know about my experiences http://usamaakram.me/
 
 
 <h3 align="left">Connect with me:</h3>
